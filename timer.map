@@ -1,0 +1,854 @@
+Archive member included because of file (symbol)
+
+Libraries/libstm32l1.a(stm32l1xx_exti.o)
+                              /tmp/ccan65vn.o (EXTI_Init)
+Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+                              /tmp/ccan65vn.o (GPIO_Init)
+Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+                              /tmp/ccqSWCWn.o (LCD_Init)
+Libraries/libstm32l1.a(misc.o)
+                              /tmp/ccan65vn.o (NVIC_Init)
+Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+                              /tmp/ccan65vn.o (PWR_RTCAccessCmd)
+Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+                              /tmp/ccan65vn.o (RCC_HSEConfig)
+Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+                              /tmp/ccan65vn.o (RTC_Init)
+Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+                              /tmp/ccan65vn.o (SYSCFG_EXTILineConfig)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+                              /tmp/cciSK7sn.o (__gnu_thumb1_case_uqi)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+                              /tmp/ccqSWCWn.o (__gnu_thumb1_case_uhi)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+                              /tmp/cciSK7sn.o (__aeabi_uidiv)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+                              /tmp/ccan65vn.o (__aeabi_idiv)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o) (__call_exitprocs)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o) (atexit)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .text          0x0000000000000000       0x60 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .data          0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+ .text          0x0000000000000000       0x78 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .text          0x0000000000000000        0x0 /tmp/ccan65vn.o
+ .data          0x0000000000000000        0x0 /tmp/ccan65vn.o
+ .bss           0x0000000000000000        0x0 /tmp/ccan65vn.o
+ .text.green_off
+                0x0000000000000000        0xc /tmp/ccan65vn.o
+ .text.green_on
+                0x0000000000000000        0xc /tmp/ccan65vn.o
+ .text.blue_on  0x0000000000000000        0xc /tmp/ccan65vn.o
+ .text.blue_off
+                0x0000000000000000        0xc /tmp/ccan65vn.o
+ .text.RTC_TamperConfiguration
+                0x0000000000000000       0x56 /tmp/ccan65vn.o
+ .text.RTC_Timer
+                0x0000000000000000       0x12 /tmp/ccan65vn.o
+ .text.NVIC_Configuration
+                0x0000000000000000        0x2 /tmp/ccan65vn.o
+ .rodata.bump_sec
+                0x0000000000000000        0x4 /tmp/ccan65vn.o
+ .text          0x0000000000000000        0x0 /tmp/cciSK7sn.o
+ .data          0x0000000000000000        0x0 /tmp/cciSK7sn.o
+ .bss           0x0000000000000000        0x0 /tmp/cciSK7sn.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x8c /tmp/cciSK7sn.o
+ .data.PLLMulTable
+                0x0000000000000000        0x9 /tmp/cciSK7sn.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 /tmp/cciSK7sn.o
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 /tmp/cciSK7sn.o
+ .text          0x0000000000000000        0x0 /tmp/ccqSWCWn.o
+ .data          0x0000000000000000        0x0 /tmp/ccqSWCWn.o
+ .bss           0x0000000000000000        0x0 /tmp/ccqSWCWn.o
+ .text.LCD_contrast
+                0x0000000000000000       0x3c /tmp/ccqSWCWn.o
+ .text.LCD_GLASS_DisplayStrDeci
+                0x0000000000000000       0x44 /tmp/ccqSWCWn.o
+ .text.LCD_GLASS_ScrollSentence
+                0x0000000000000000       0xb8 /tmp/ccqSWCWn.o
+ .bss.KeyPressed
+                0x0000000000000000        0x1 /tmp/ccqSWCWn.o
+ .text          0x0000000000000000       0x14 /tmp/ccwIIOuo.o
+ .data          0x0000000000000000        0x0 /tmp/ccwIIOuo.o
+ .bss           0x0000000000000000        0x0 /tmp/ccwIIOuo.o
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(misc.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(misc.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .data          0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+ .bss           0x0000000000000000        0x0 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+ .text          0x0000000000000000       0x14 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uqi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000      0x428 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x9c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x0000000000000000       0x18 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000      0x118 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x54 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .text.atexit   0x0000000000000000       0x10 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x0000000000000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000000000       0xc0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x38 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /tmp/ccan65vn.o
+LOAD /tmp/cciSK7sn.o
+LOAD /tmp/ccqSWCWn.o
+LOAD /tmp/ccwIIOuo.o
+LOAD Libraries/libstm32l1.a
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libc.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x0000000020002000                _estack = 0x20002000
+
+.isr_vector     0x0000000008000000      0x10c
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c /tmp/ccwIIOuo.o
+                0x0000000008000000                g_pfnVectors
+                0x000000000800010c                . = ALIGN (0x4)
+
+.text           0x000000000800010c     0x2624
+                0x000000000800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x000000000800010c       0xec Libraries/libstm32l1.a(stm32l1xx_exti.o)
+                0x000000000800010c                EXTI_DeInit
+                0x0000000008000128                EXTI_Init
+                0x0000000008000190                EXTI_StructInit
+                0x00000000080001a0                EXTI_GenerateSWInterrupt
+                0x00000000080001b0                EXTI_GetFlagStatus
+                0x00000000080001c4                EXTI_ClearFlag
+                0x00000000080001d0                EXTI_GetITStatus
+                0x00000000080001ec                EXTI_ClearITPendingBit
+ .text          0x00000000080001f8      0x234 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+                0x00000000080001f8                GPIO_DeInit
+                0x00000000080002dc                GPIO_Init
+                0x0000000008000388                GPIO_StructInit
+                0x000000000800039c                GPIO_PinLockConfig
+                0x00000000080003c0                GPIO_ReadInputDataBit
+                0x00000000080003cc                GPIO_ReadInputData
+                0x00000000080003d4                GPIO_ReadOutputDataBit
+                0x00000000080003e0                GPIO_ReadOutputData
+                0x00000000080003e8                GPIO_SetBits
+                0x00000000080003ec                GPIO_ResetBits
+                0x00000000080003f0                GPIO_WriteBit
+                0x00000000080003fc                GPIO_Write
+                0x0000000008000400                GPIO_ToggleBits
+                0x0000000008000408                GPIO_PinAFConfig
+ .text          0x000000000800042c      0x18c Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+                0x000000000800042c                LCD_DeInit
+                0x0000000008000444                LCD_Init
+                0x0000000008000488                LCD_StructInit
+                0x0000000008000498                LCD_Cmd
+                0x00000000080004a4                LCD_WaitForSynchro
+                0x00000000080004b4                LCD_HighDriveCmd
+                0x00000000080004c0                LCD_MuxSegmentCmd
+                0x00000000080004cc                LCD_PulseOnDurationConfig
+                0x00000000080004e4                LCD_DeadTimeConfig
+                0x0000000008000500                LCD_BlinkConfig
+                0x0000000008000520                LCD_ContrastConfig
+                0x000000000800053c                LCD_Write
+                0x000000000800054c                LCD_UpdateDisplayRequest
+                0x0000000008000558                LCD_ITConfig
+                0x0000000008000570                LCD_GetFlagStatus
+                0x0000000008000584                LCD_ClearFlag
+                0x0000000008000590                LCD_GetITStatus
+                0x00000000080005ac                LCD_ClearITPendingBit
+ .text          0x00000000080005b8       0xcc Libraries/libstm32l1.a(misc.o)
+                0x00000000080005b8                NVIC_PriorityGroupConfig
+                0x00000000080005cc                NVIC_Init
+                0x000000000800063c                NVIC_SetVectorTable
+                0x0000000008000650                NVIC_SystemLPConfig
+                0x0000000008000668                SysTick_CLKSourceConfig
+ .text          0x0000000008000684      0x174 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+                0x0000000008000684                PWR_DeInit
+                0x000000000800069c                PWR_RTCAccessCmd
+                0x00000000080006a8                PWR_PVDLevelConfig
+                0x00000000080006bc                PWR_PVDCmd
+                0x00000000080006c8                PWR_WakeUpPinCmd
+                0x00000000080006e0                PWR_FastWakeUpCmd
+                0x00000000080006ec                PWR_UltraLowPowerCmd
+                0x00000000080006f8                PWR_VoltageScalingConfig
+                0x0000000008000714                PWR_EnterLowPowerRunMode
+                0x0000000008000748                PWR_EnterSleepMode
+                0x0000000008000774                PWR_EnterSTOPMode
+                0x00000000080007ac                PWR_EnterSTANDBYMode
+                0x00000000080007d4                PWR_GetFlagStatus
+                0x00000000080007e8                PWR_ClearFlag
+ .text          0x00000000080007f8      0x404 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+                0x00000000080007f8                RCC_DeInit
+                0x0000000008000840                RCC_HSEConfig
+                0x0000000008000850                RCC_WaitForHSEStartUp
+                0x000000000800088c                RCC_AdjustMSICalibrationValue
+                0x0000000008000898                RCC_MSIRangeConfig
+                0x00000000080008b0                RCC_MSICmd
+                0x00000000080008bc                RCC_AdjustHSICalibrationValue
+                0x00000000080008d4                RCC_HSICmd
+                0x00000000080008e0                RCC_LSEConfig
+                0x00000000080008f0                RCC_LSICmd
+                0x00000000080008fc                RCC_PLLConfig
+                0x000000000800090c                RCC_PLLCmd
+                0x0000000008000918                RCC_ClockSecuritySystemCmd
+                0x0000000008000924                RCC_LSEClockSecuritySystemCmd
+                0x0000000008000930                RCC_MCOConfig
+                0x000000000800093c                RCC_SYSCLKConfig
+                0x0000000008000950                RCC_GetSYSCLKSource
+                0x0000000008000960                RCC_HCLKConfig
+                0x0000000008000974                RCC_PCLK1Config
+                0x000000000800098c                RCC_PCLK2Config
+                0x00000000080009a4                RCC_GetClocksFreq
+                0x0000000008000a5c                RCC_RTCCLKConfig
+                0x0000000008000a9c                RCC_RTCCLKCmd
+                0x0000000008000aa8                RCC_RTCResetCmd
+                0x0000000008000ab4                RCC_AHBPeriphClockCmd
+                0x0000000008000acc                RCC_APB2PeriphClockCmd
+                0x0000000008000ae4                RCC_APB1PeriphClockCmd
+                0x0000000008000afc                RCC_AHBPeriphResetCmd
+                0x0000000008000b14                RCC_APB2PeriphResetCmd
+                0x0000000008000b2c                RCC_APB1PeriphResetCmd
+                0x0000000008000b44                RCC_AHBPeriphClockLPModeCmd
+                0x0000000008000b5c                RCC_APB2PeriphClockLPModeCmd
+                0x0000000008000b74                RCC_APB1PeriphClockLPModeCmd
+                0x0000000008000b8c                RCC_ITConfig
+                0x0000000008000ba4                RCC_GetFlagStatus
+                0x0000000008000bc8                RCC_ClearFlag
+                0x0000000008000bdc                RCC_GetITStatus
+                0x0000000008000bf0                RCC_ClearITPendingBit
+ .text          0x0000000008000bfc      0xc78 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+                0x0000000008000bfc                RTC_StructInit
+                0x0000000008000c08                RTC_WriteProtectionCmd
+                0x0000000008000c24                RTC_EnterInitMode
+                0x0000000008000c6c                RTC_Init
+                0x0000000008000cbc                RTC_ExitInitMode
+                0x0000000008000ccc                RTC_WaitForSynchro
+                0x0000000008000d18                RTC_DeInit
+                0x0000000008000db0                RTC_RefClockCmd
+                0x0000000008000df8                RTC_BypassShadowCmd
+                0x0000000008000e24                RTC_SetTime
+                0x0000000008000efc                RTC_TimeStructInit
+                0x0000000008000f08                RTC_GetTime
+                0x0000000008000f60                RTC_GetSubSecond
+                0x0000000008000f6c                RTC_SetDate
+                0x0000000008001044                RTC_DateStructInit
+                0x0000000008001054                RTC_GetDate
+                0x00000000080010a8                RTC_SetAlarm
+                0x000000000800119c                RTC_AlarmStructInit
+                0x00000000080011b0                RTC_GetAlarm
+                0x000000000800124c                RTC_AlarmCmd
+                0x00000000080012a8                RTC_AlarmSubSecondConfig
+                0x00000000080012d0                RTC_GetAlarmSubSecond
+                0x00000000080012f0                RTC_WakeUpClockConfig
+                0x0000000008001314                RTC_SetWakeUpCounter
+                0x000000000800132c                RTC_GetWakeUpCounter
+                0x000000000800133c                RTC_WakeUpCmd
+                0x00000000080013a0                RTC_DayLightSavingConfig
+                0x00000000080013cc                RTC_GetStoreOperation
+                0x00000000080013dc                RTC_OutputConfig
+                0x0000000008001408                RTC_CoarseCalibConfig
+                0x0000000008001440                RTC_CoarseCalibCmd
+                0x0000000008001488                RTC_CalibOutputCmd
+                0x00000000080014b8                RTC_CalibOutputConfig
+                0x00000000080014e0                RTC_SmoothCalibConfig
+                0x0000000008001530                RTC_TimeStampCmd
+                0x0000000008001564                RTC_GetTimeStamp
+                0x000000000800160c                RTC_GetTimeStampSubSecond
+                0x0000000008001618                RTC_TamperTriggerConfig
+                0x0000000008001634                RTC_TamperCmd
+                0x000000000800164c                RTC_TamperFilterConfig
+                0x0000000008001668                RTC_TamperSamplingFreqConfig
+                0x0000000008001684                RTC_TamperPinsPrechargeDuration
+                0x00000000080016a0                RTC_TimeStampOnTamperDetectionCmd
+                0x00000000080016c0                RTC_TamperPullUpCmd
+                0x00000000080016e4                RTC_WriteBackupRegister
+                0x0000000008001704                RTC_ReadBackupRegister
+                0x0000000008001724                RTC_OutputTypeConfig
+                0x0000000008001740                RTC_SynchroShiftConfig
+                0x000000000800179c                RTC_ITConfig
+                0x00000000080017e4                RTC_GetFlagStatus
+                0x0000000008001800                RTC_ClearFlag
+                0x0000000008001820                RTC_GetITStatus
+                0x0000000008001858                RTC_ClearITPendingBit
+ .text          0x0000000008001874      0x240 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+                0x0000000008001874                SYSCFG_DeInit
+                0x0000000008001888                SYSCFG_RIDeInit
+                0x00000000080018a0                SYSCFG_MemoryRemapConfig
+                0x00000000080018ac                SYSCFG_GetBootMode
+                0x00000000080018bc                SYSCFG_USBPuCmd
+                0x00000000080018dc                SYSCFG_EXTILineConfig
+                0x0000000008001908                SYSCFG_RITIMSelect
+                0x0000000008001920                SYSCFG_RITIMInputCaptureConfig
+                0x0000000008001968                SYSCFG_RIResistorConfig
+                0x0000000008001980                SYSCFG_RIChannelSpeedConfig
+                0x0000000008001998                SYSCFG_RIIOSwitchConfig
+                0x00000000080019d8                SYSCFG_RISwitchControlModeCmd
+                0x00000000080019f8                SYSCFG_RIHysteresisConfig
+ .text          0x0000000008001ab4       0x14 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+                0x0000000008001ab4                __gnu_thumb1_case_uhi
+ .text          0x0000000008001ac8       0x9c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+                0x0000000008001ac8                __udivsi3
+                0x0000000008001ac8                __aeabi_uidiv
+                0x0000000008001b50                __aeabi_uidivmod
+ .text          0x0000000008001b64       0xc0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+                0x0000000008001b64                __aeabi_idiv
+                0x0000000008001b64                __divsi3
+                0x0000000008001c10                __aeabi_idivmod
+ .text          0x0000000008001c24        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000008001c24                __aeabi_ldiv0
+                0x0000000008001c24                __aeabi_idiv0
+ *(.text.*)
+ .text.RCC_Configuration
+                0x0000000008001c28       0x84 /tmp/ccan65vn.o
+ .text.RTC_Config
+                0x0000000008001cac       0x66 /tmp/ccan65vn.o
+                0x0000000008001cac                RTC_Config
+ *fill*         0x0000000008001d12        0x2 
+ .text.RTC_AlarmConfig
+                0x0000000008001d14       0x64 /tmp/ccan65vn.o
+                0x0000000008001d14                RTC_AlarmConfig
+ .text.itoa     0x0000000008001d78       0x32 /tmp/ccan65vn.o
+                0x0000000008001d78                itoa
+ *fill*         0x0000000008001daa        0x2 
+ .text.display_time
+                0x0000000008001dac       0x5c /tmp/ccan65vn.o
+                0x0000000008001dac                display_time
+ .text.EXTI0_IRQHandler
+                0x0000000008001e08       0x2c /tmp/ccan65vn.o
+                0x0000000008001e08                EXTI0_IRQHandler
+ .text.RTC_Alarm_IRQHandler
+                0x0000000008001e34       0x24 /tmp/ccan65vn.o
+                0x0000000008001e34                RTC_Alarm_IRQHandler
+ .text.startup.main
+                0x0000000008001e58       0xb0 /tmp/ccan65vn.o
+                0x0000000008001e58                main
+ .text.SystemInit
+                0x0000000008001f08      0x114 /tmp/cciSK7sn.o
+                0x0000000008001f08                SystemInit
+ .text.LCD_GLASS_Configure_GPIO
+                0x000000000800201c      0x184 /tmp/ccqSWCWn.o
+                0x000000000800201c                LCD_GLASS_Configure_GPIO
+ .text.LCD_bar  0x00000000080021a0       0x34 /tmp/ccqSWCWn.o
+                0x00000000080021a0                LCD_bar
+ .text.LCD_GLASS_WriteChar
+                0x00000000080021d4      0x39c /tmp/ccqSWCWn.o
+                0x00000000080021d4                LCD_GLASS_WriteChar
+ .text.LCD_GLASS_DisplayString
+                0x0000000008002570       0x32 /tmp/ccqSWCWn.o
+                0x0000000008002570                LCD_GLASS_DisplayString
+ *fill*         0x00000000080025a2        0x2 
+ .text.LCD_GLASS_Clear
+                0x00000000080025a4       0x28 /tmp/ccqSWCWn.o
+                0x00000000080025a4                LCD_GLASS_Clear
+ .text.LCD_GLASS_Init
+                0x00000000080025cc       0x68 /tmp/ccqSWCWn.o
+                0x00000000080025cc                LCD_GLASS_Init
+ .text.Reset_Handler
+                0x0000000008002634       0x50 /tmp/ccwIIOuo.o
+                0x0000000008002634                Reset_Handler
+ .text.Default_Handler
+                0x0000000008002684        0x4 /tmp/ccwIIOuo.o
+                0x0000000008002684                EXTI2_IRQHandler
+                0x0000000008002684                DebugMon_Handler
+                0x0000000008002684                HardFault_Handler
+                0x0000000008002684                TIM10_IRQHandler
+                0x0000000008002684                USB_HP_IRQHandler
+                0x0000000008002684                TIM6_IRQHandler
+                0x0000000008002684                SysTick_Handler
+                0x0000000008002684                PVD_IRQHandler
+                0x0000000008002684                PendSV_Handler
+                0x0000000008002684                NMI_Handler
+                0x0000000008002684                EXTI3_IRQHandler
+                0x0000000008002684                I2C2_EV_IRQHandler
+                0x0000000008002684                UsageFault_Handler
+                0x0000000008002684                SPI1_IRQHandler
+                0x0000000008002684                USB_FS_WKUP_IRQHandler
+                0x0000000008002684                DMA1_Channel4_IRQHandler
+                0x0000000008002684                ADC1_IRQHandler
+                0x0000000008002684                USART3_IRQHandler
+                0x0000000008002684                DMA1_Channel7_IRQHandler
+                0x0000000008002684                LCD_IRQHandler
+                0x0000000008002684                TIM4_IRQHandler
+                0x0000000008002684                I2C1_EV_IRQHandler
+                0x0000000008002684                DMA1_Channel6_IRQHandler
+                0x0000000008002684                TIM3_IRQHandler
+                0x0000000008002684                RCC_IRQHandler
+                0x0000000008002684                DMA1_Channel1_IRQHandler
+                0x0000000008002684                Default_Handler
+                0x0000000008002684                EXTI15_10_IRQHandler
+                0x0000000008002684                TIM7_IRQHandler
+                0x0000000008002684                EXTI9_5_IRQHandler
+                0x0000000008002684                TIM9_IRQHandler
+                0x0000000008002684                TAMPER_STAMP_IRQHandler
+                0x0000000008002684                RTC_WKUP_IRQHandler
+                0x0000000008002684                SPI2_IRQHandler
+                0x0000000008002684                MemManage_Handler
+                0x0000000008002684                SVC_Handler
+                0x0000000008002684                DMA1_Channel5_IRQHandler
+                0x0000000008002684                USB_LP_IRQHandler
+                0x0000000008002684                EXTI4_IRQHandler
+                0x0000000008002684                DMA1_Channel3_IRQHandler
+                0x0000000008002684                COMP_IRQHandler
+                0x0000000008002684                WWDG_IRQHandler
+                0x0000000008002684                TIM2_IRQHandler
+                0x0000000008002684                DAC_IRQHandler
+                0x0000000008002684                EXTI1_IRQHandler
+                0x0000000008002684                TIM11_IRQHandler
+                0x0000000008002684                USART2_IRQHandler
+                0x0000000008002684                I2C2_ER_IRQHandler
+                0x0000000008002684                DMA1_Channel2_IRQHandler
+                0x0000000008002684                FLASH_IRQHandler
+                0x0000000008002684                BusFault_Handler
+                0x0000000008002684                USART1_IRQHandler
+                0x0000000008002684                I2C1_ER_IRQHandler
+ .text.__libc_init_array
+                0x0000000008002688       0x48 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+                0x0000000008002688                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ .rodata.CapLetterMap
+                0x00000000080026d0       0x34 /tmp/ccqSWCWn.o
+                0x00000000080026d0                CapLetterMap
+ .rodata.NumberMap
+                0x0000000008002704       0x14 /tmp/ccqSWCWn.o
+                0x0000000008002704                NumberMap
+ *(.glue_7)
+ .glue_7        0x0000000000000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+ *(.init)
+ .init          0x0000000008002718        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x0000000008002718                _init
+ .init          0x000000000800271c        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008002724        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+                0x0000000008002724                _fini
+ .fini          0x0000000008002728        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+                0x0000000008002730                . = ALIGN (0x4)
+                0x0000000008002730                _etext = .
+                0x0000000008002730                _sidata = _etext
+
+.vfp11_veneer   0x0000000008002730        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000008002730        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000008002730        0x0
+ .iplt          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.rel.dyn        0x0000000008002730        0x0
+ .rel.iplt      0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.data           0x0000000020000000       0x20 load address 0x0000000008002730
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+                0x0000000020000000                _data = .
+ *(.data)
+ .data          0x0000000020000000       0x1c Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ *(.data.*)
+ .data.sec      0x000000002000001c        0x4 /tmp/ccan65vn.o
+                0x000000002000001c                sec
+ *(.RAMtext)
+                0x0000000020000020                . = ALIGN (0x4)
+                0x0000000020000020                _edata = .
+
+.igot.plt       0x0000000020000020        0x0 load address 0x0000000008002750
+ .igot.plt      0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtbegin.o
+
+.bss            0x0000000020000020        0x4 load address 0x0000000008002750
+                0x0000000020000020                . = ALIGN (0x4)
+                0x0000000020000020                _sbss = .
+                0x0000000020000020                _bss = .
+ *(.bss)
+ *(.bss.*)
+ .bss.t_bar     0x0000000020000020        0x2 /tmp/ccqSWCWn.o
+                0x0000000020000020                t_bar
+ *(COMMON)
+                0x0000000020000024                . = ALIGN (0x4)
+ *fill*         0x0000000020000022        0x2 
+                0x0000000020000024                _ebss = .
+                0x0000000020000024                PROVIDE (end, _ebss)
+                0x0000000020000024                PROVIDE (_end, _ebss)
+                0x0000000020000024                __exidx_start = .
+                0x0000000020000024                __exidx_end = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x70
+ *(.comment)
+ .comment       0x0000000000000000       0x70 /tmp/ccan65vn.o
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000000       0x71 /tmp/cciSK7sn.o
+ .comment       0x0000000000000000       0x71 /tmp/ccqSWCWn.o
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(misc.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .comment       0x0000000000000000       0x71 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2d
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x31 /tmp/ccan65vn.o
+ .ARM.attributes
+                0x000000000000004f       0x31 /tmp/cciSK7sn.o
+ .ARM.attributes
+                0x0000000000000080       0x31 /tmp/ccqSWCWn.o
+ .ARM.attributes
+                0x00000000000000b1       0x21 /tmp/ccwIIOuo.o
+ .ARM.attributes
+                0x00000000000000d2       0x31 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .ARM.attributes
+                0x0000000000000103       0x31 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .ARM.attributes
+                0x0000000000000134       0x31 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .ARM.attributes
+                0x0000000000000165       0x31 Libraries/libstm32l1.a(misc.o)
+ .ARM.attributes
+                0x0000000000000196       0x31 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .ARM.attributes
+                0x00000000000001c7       0x31 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .ARM.attributes
+                0x00000000000001f8       0x31 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .ARM.attributes
+                0x0000000000000229       0x31 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+ .ARM.attributes
+                0x000000000000025a       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_thumb1_case_uhi.o)
+ .ARM.attributes
+                0x0000000000000278       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000296       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000000002b4       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000002d2       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002fe       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x240
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x90 /tmp/ccan65vn.o
+ .debug_aranges
+                0x0000000000000090       0x28 /tmp/cciSK7sn.o
+ .debug_aranges
+                0x00000000000000b8       0x60 /tmp/ccqSWCWn.o
+ .debug_aranges
+                0x0000000000000118       0x28 /tmp/ccwIIOuo.o
+ .debug_aranges
+                0x0000000000000140       0x20 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_aranges
+                0x0000000000000160       0x20 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_aranges
+                0x0000000000000180       0x20 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_aranges
+                0x00000000000001a0       0x20 Libraries/libstm32l1.a(misc.o)
+ .debug_aranges
+                0x00000000000001c0       0x20 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_aranges
+                0x00000000000001e0       0x20 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_aranges
+                0x0000000000000200       0x20 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_aranges
+                0x0000000000000220       0x20 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x65b0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x1188 /tmp/ccan65vn.o
+ .debug_info    0x0000000000001188      0x56b /tmp/cciSK7sn.o
+ .debug_info    0x00000000000016f3      0xdc2 /tmp/ccqSWCWn.o
+ .debug_info    0x00000000000024b5       0x67 /tmp/ccwIIOuo.o
+ .debug_info    0x000000000000251c      0x338 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_info    0x0000000000002854      0x7bd Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_info    0x0000000000003011      0x4df Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_info    0x00000000000034f0      0x526 Libraries/libstm32l1.a(misc.o)
+ .debug_info    0x0000000000003a16      0x5d5 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_info    0x0000000000003feb      0xa93 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_info    0x0000000000004a7e     0x16df Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_info    0x000000000000615d      0x453 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.debug_abbrev   0x0000000000000000     0x175a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x32d /tmp/ccan65vn.o
+ .debug_abbrev  0x000000000000032d      0x15f /tmp/cciSK7sn.o
+ .debug_abbrev  0x000000000000048c      0x310 /tmp/ccqSWCWn.o
+ .debug_abbrev  0x000000000000079c       0x12 /tmp/ccwIIOuo.o
+ .debug_abbrev  0x00000000000007ae      0x1c5 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_abbrev  0x0000000000000973      0x1e5 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_abbrev  0x0000000000000b58      0x1ed Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_abbrev  0x0000000000000d45      0x156 Libraries/libstm32l1.a(misc.o)
+ .debug_abbrev  0x0000000000000e9b      0x1e1 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_abbrev  0x000000000000107c      0x29a Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_abbrev  0x0000000000001316      0x28a Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_abbrev  0x00000000000015a0      0x1ba Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.debug_line     0x0000000000000000     0x1d30
+ *(.debug_line)
+ .debug_line    0x0000000000000000      0x3b0 /tmp/ccan65vn.o
+ .debug_line    0x00000000000003b0      0x15a /tmp/cciSK7sn.o
+ .debug_line    0x000000000000050a      0x351 /tmp/ccqSWCWn.o
+ .debug_line    0x000000000000085b       0x7a /tmp/ccwIIOuo.o
+ .debug_line    0x00000000000008d5      0x185 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_line    0x0000000000000a5a      0x1e7 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_line    0x0000000000000c41      0x1d6 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_line    0x0000000000000e17      0x144 Libraries/libstm32l1.a(misc.o)
+ .debug_line    0x0000000000000f5b      0x1e9 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_line    0x0000000000001144      0x2ed Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_line    0x0000000000001431      0x716 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_line    0x0000000000001b47      0x1e9 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.debug_frame    0x0000000000000000      0xfa4
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x178 /tmp/ccan65vn.o
+ .debug_frame   0x0000000000000178       0x4c /tmp/cciSK7sn.o
+ .debug_frame   0x00000000000001c4      0x10c /tmp/ccqSWCWn.o
+ .debug_frame   0x00000000000002d0       0x98 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_frame   0x0000000000000368      0x120 Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_frame   0x0000000000000488      0x148 Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_frame   0x00000000000005d0       0x60 Libraries/libstm32l1.a(misc.o)
+ .debug_frame   0x0000000000000630      0x10c Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_frame   0x000000000000073c      0x288 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_frame   0x00000000000009c4      0x484 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_frame   0x0000000000000e48       0xf0 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+ .debug_frame   0x0000000000000f38       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000f58       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000000f78       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libg.a(lib_a-init.o)
+
+.debug_str      0x0000000000000000     0x24ec
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xc90 /tmp/ccan65vn.o
+                                        0xd01 (size before relaxing)
+ .debug_str     0x0000000000000c90      0x1a6 /tmp/cciSK7sn.o
+                                        0x383 (size before relaxing)
+ .debug_str     0x0000000000000e36      0x253 /tmp/ccqSWCWn.o
+                                        0x68c (size before relaxing)
+ .debug_str     0x0000000000001089      0x1af Libraries/libstm32l1.a(stm32l1xx_exti.o)
+                                        0x381 (size before relaxing)
+ .debug_str     0x0000000000001238      0x16e Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+                                        0x504 (size before relaxing)
+ .debug_str     0x00000000000013a6      0x13d Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+                                        0x42a (size before relaxing)
+ .debug_str     0x00000000000014e3      0x151 Libraries/libstm32l1.a(misc.o)
+                                        0x3ec (size before relaxing)
+ .debug_str     0x0000000000001634      0x191 Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+                                        0x3f5 (size before relaxing)
+ .debug_str     0x00000000000017c5      0x341 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+                                        0x722 (size before relaxing)
+ .debug_str     0x0000000000001b06      0x78e Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+                                        0xb6a (size before relaxing)
+ .debug_str     0x0000000000002294      0x258 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+                                        0x443 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x376d
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x182 /tmp/ccan65vn.o
+ .debug_loc     0x0000000000000182      0x119 /tmp/cciSK7sn.o
+ .debug_loc     0x000000000000029b      0x4c2 /tmp/ccqSWCWn.o
+ .debug_loc     0x000000000000075d      0x178 Libraries/libstm32l1.a(stm32l1xx_exti.o)
+ .debug_loc     0x00000000000008d5      0x38c Libraries/libstm32l1.a(stm32l1xx_gpio.o)
+ .debug_loc     0x0000000000000c61      0x1bb Libraries/libstm32l1.a(stm32l1xx_lcd.o)
+ .debug_loc     0x0000000000000e1c      0x18c Libraries/libstm32l1.a(misc.o)
+ .debug_loc     0x0000000000000fa8      0x23a Libraries/libstm32l1.a(stm32l1xx_pwr.o)
+ .debug_loc     0x00000000000011e2      0x98f Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_loc     0x0000000000001b71     0x1725 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
+ .debug_loc     0x0000000000003296      0x4d7 Libraries/libstm32l1.a(stm32l1xx_syscfg.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(timer.elf elf32-littlearm)
+
+.debug_ranges   0x0000000000000000      0x328
+ .debug_ranges  0x0000000000000000       0xb0 /tmp/ccan65vn.o
+ .debug_ranges  0x00000000000000b0       0x30 /tmp/cciSK7sn.o
+ .debug_ranges  0x00000000000000e0       0x50 /tmp/ccqSWCWn.o
+ .debug_ranges  0x0000000000000130       0x20 /tmp/ccwIIOuo.o
+ .debug_ranges  0x0000000000000150       0x18 Libraries/libstm32l1.a(stm32l1xx_rcc.o)
+ .debug_ranges  0x0000000000000168      0x1c0 Libraries/libstm32l1.a(stm32l1xx_rtc.o)
