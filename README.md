@@ -1,4 +1,4 @@
-This is a simple egg timer for the STM32L-DISCOVERY and the 32L152CDISCOVERY
+This is a simple egg timer for the STM32L-DISCOVERY and 32L152CDISCOVERY
 boards:
 
 http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00027566.pdf
